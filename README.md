@@ -2,7 +2,7 @@
 </img>
 
 ### Yahomi
-##大学生のyahomiです。
+大学生のyahomiです。
 現在はPython/Djangoおw中心にWebアプリを開発しています。
 
 
