@@ -3,18 +3,31 @@
 
 <br><br><br>
 
-# Hi there ✋
-大学生のyahomiです。<br>
-Illustrator | Web-Engineer<br>
-現在はPython/Djangoを中心にWebアプリを開発しています。<br>
+# プロフィール
+２１歳/大学４年のyahomiです。  Illustrator | Web-Engineer. Python/Djangoを中心にWebアプリを開発しています。  現在、２２卒として就職活動中
 <br><br><br>
 
-# Leaning Skills
+# 学んでいる技術
 - Python
 - Django
 - MySQL
 - JavaScript
 - PHP
+<br><br><br>
+
+# 好きなこと
+- お絵かき
+- FPSゲーム
+- 将棋
+- 音楽/楽器演奏
+- 芝生（で寝る）
+<br><br><br>
+
+# 製作中
+- Team-Wakes
+  -FPSゲームを中心に、チーム分けをする便利ツール
+  Django + JavaScript + SQLite3で開発
+  -ログイン不要の、簡易版（データベースを使用しない）を作成←開発済
 <br><br><br>
 
 ## GitHub Stats
