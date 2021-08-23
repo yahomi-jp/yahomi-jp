@@ -4,10 +4,10 @@
 <br><br><br>
 
 # プロフィール
-２１歳/大学４年のyahomiです。<br>
+21歳/大学4年のyahomiです。<br>
 Illustrator | Web-Engineer.<br>
 Python/Djangoを中心にWebアプリを開発しています。<br>
-現在、２２卒として就職活動中
+現在、22卒として就職活動中
 <br><br><br>
 
 # 学んでいる技術
