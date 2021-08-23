@@ -1,4 +1,4 @@
-<img src="kujira-hige.png">
+<img src="kujira-hige.png" width="50%" height="50%">
 </img>
 
 ### 
