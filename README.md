@@ -6,7 +6,7 @@
 # プロフィール
 Illustrator | Web-Engineer<br>
 21歳/大学4年のyahomiです。<br>
-2012年03月〜学習開始<br>
+2021年03月〜学習開始<br>
 Python/Djangoを中心にWebアプリを開発しています。<br>
 現在、22卒として就職活動中
 <br><br><br>
