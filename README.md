@@ -27,7 +27,7 @@ Python/Djangoを中心にWebアプリを開発しています。<br>
 <br><br><br>
 
 # 製作中
-- Team-Wakes[GitHub Pages](https://github.com/yahomi-jp/team-wake)
+- Team-Wakes → [GitHub Pages](https://github.com/yahomi-jp/team-wake)
     - FPSゲームを中心に、チーム分けをする便利ツール
     - Django + JavaScript + SQLite3で開発
     - ログイン不要の、簡易版（データベースを使用しない）を作成←開発済
