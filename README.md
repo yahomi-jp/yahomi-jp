@@ -4,7 +4,10 @@
 <br><br><br>
 
 # プロフィール
-２１歳/大学４年のyahomiです。  Illustrator | Web-Engineer. Python/Djangoを中心にWebアプリを開発しています。  現在、２２卒として就職活動中
+２１歳/大学４年のyahomiです。<br>
+Illustrator | Web-Engineer.<br>
+Python/Djangoを中心にWebアプリを開発しています。<br>
+現在、２２卒として就職活動中
 <br><br><br>
 
 # 学んでいる技術
@@ -24,10 +27,10 @@
 <br><br><br>
 
 # 製作中
-- Team-Wakes
-  -FPSゲームを中心に、チーム分けをする便利ツール
+- Team-Wakes[GitHub Pages](https://github.com/yahomi-jp/team-wake)
+  -　FPSゲームを中心に、チーム分けをする便利ツール
   Django + JavaScript + SQLite3で開発
-  -ログイン不要の、簡易版（データベースを使用しない）を作成←開発済
+  -　ログイン不要の、簡易版（データベースを使用しない）を作成←開発済
 <br><br><br>
 
 ## GitHub Stats
