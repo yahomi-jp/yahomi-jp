@@ -5,11 +5,11 @@
 ##大学生のyahomiです。<br>
 現在はPython/Djangoおw中心にWebアプリを開発しています。<br>
 
-##GitHub Stats
+## GitHub Stats
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahomi-jp&show_icons=true&theme=dracula)<br>
 
-##Top Langs
+## Top Langs
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahomi-jp&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br>
