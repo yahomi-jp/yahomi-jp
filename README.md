@@ -3,7 +3,8 @@
 
 # Yahomi
 ## 大学生のyahomiです。<br>
-現在はPython/Djangoおw中心にWebアプリを開発しています。<br>
+現在はPython/Djangoを中心にWebアプリを開発しています。<br>
+<br><br>
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahomi-jp&show_icons=true&theme=dracula)<br>
