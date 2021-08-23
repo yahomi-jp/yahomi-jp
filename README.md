@@ -4,7 +4,7 @@
 <br><br><br>
 
 # Hi there ✋
-## 大学生のyahomiです。<br>
+大学生のyahomiです。<br>
 Illustrator | Web-Engineer<br>
 現在はPython/Djangoを中心にWebアプリを開発しています。<br>
 <br><br><br>
