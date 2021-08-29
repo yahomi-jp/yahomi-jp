@@ -27,6 +27,22 @@ Python/Djangoを中心にWebアプリを開発しています。<br>
 - 芝生（で寝る）
 <br><br><br>
 
+# 制作物
+- Todo-List(PHP) →　[GitHub Pages](https://github.com/yahomi-jp/todo-php)
+    - PHPとテキストファイルを使ったTodoリストアプリです。
+    - PHPを少し勉強したときに何かアプリを作ってみようと作ったのがこちらのアプリ
+    - 機能としてはTodoの閲覧、追加と削除機能を実装しました。
+        -ユーザー認証機能はないので、接続した人はみんな一つのTodoリストを触り、閲覧することになります。
+    - 大学のサーバーに上げて、現在も使えるようになっています。
+<br><br>
+- Todo-List（Python/Django） →　[GitHub Pages](https://github.com/yahomi-jp/django-todo)
+    - PHPで作ったTodo-ListをPython/Djangoでリプレイスすることで、
+      Webアプリ開発やDjangoフレームワークの理解を深めることを目的として作りました。
+    - 基本的なCRUD機能とユーザー認証機能を実装しました。
+    - ホスティングサービスにHerokuを採用し、現在も実際に使えるようになっています。
+
+<br><br><br>
+
 # 製作中
 - Team-Wakes → [GitHub Pages](https://github.com/yahomi-jp/team-wake)
     - FPSゲームを中心に、チーム分けをする便利ツール
