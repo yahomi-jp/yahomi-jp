@@ -17,6 +17,8 @@ Python/Djangoを中心にWebアプリを開発しています。<br>
 - MySQL
 - JavaScript
 - PHP
+- Laravel
+- Git
 <br><br><br>
 
 # 好きなこと
