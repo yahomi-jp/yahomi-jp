@@ -43,15 +43,18 @@ Python/Djangoを中心にWebアプリを開発しています。<br>
       Webアプリ開発やDjangoフレームワークの理解を深めることを目的として作りました。
     - 基本的なCRUD機能とユーザー認証機能を実装しました。
     - ホスティングサービスにHerokuを採用し、現在も実際に使えるようになっています。
-
-<br><br><br>
-
-# 製作中
+<br><br>
 - Team-Wakes → [GitHub Pages](https://github.com/yahomi-jp/team-wake)
     - FPSゲームを中心に、チーム分けをする便利ツール
     - Django + JavaScript + SQLite3で開発
     - ログイン不要の、[簡易版](https://www.cc.kyoto-su.ac.jp/~g1842367/yahomi/teamwake/team-wake.html)（データベースを使用しない）を作成←開発済
+    - ホスティングサービスにHerokuを採用し、現在も実際に使えるようになっています。
 <br><br><br>
+
+<br><br><br>
+
+# 製作中
+- Team-Weaksの機能追加・改善
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahomi-jp&show_icons=true&theme=dracula)
