@@ -53,8 +53,10 @@ Python/Djangoを中心にWebアプリを開発しています。<br>
 
 <br><br><br>
 
-# 製作中
+# 制作中/制作したいもの
 - Team-Weaksの機能追加・改善
+- Django-adminの管理アプリを使いやすさ模したアプリ
+- 
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahomi-jp&show_icons=true&theme=dracula)
