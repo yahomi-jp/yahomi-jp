@@ -54,7 +54,7 @@ Python/Djangoを中心にWebアプリを開発しています。<br>
 <br><br><br>
 
 # 制作中/制作したいもの
-- Team-Weaksの機能追加・改善
+- Team-Weaksの機能追加・改善←取り掛かり中
 - Django-adminの管理アプリを使いやすさ模したアプリ
 - Pythonでデスクトップアプリの制作
 - ゲーム
