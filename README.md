@@ -1,4 +1,4 @@
-<img src="kujira-hige.png">
+<!-- <img src="kujira-hige.png">
 </img>
 
 <br><br><br>
@@ -73,4 +73,4 @@ Python/Djangoを中心にWebアプリを開発しています。<br>
 <br><br><br>
 
 Feel free to contact me
-
+ -->
